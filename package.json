@@ -1,5 +1,7 @@
 {
   "name": "libp2p-relay",
+  "version": "0.0.1",
+  "description": "part of lipp2p-audio-chat-in-randomi",
   "module": "index.ts",
   "type": "module",
   "scripts": {
